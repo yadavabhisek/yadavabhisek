@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yadavabhisek" alt="yadavabhisek" /></a> </p>
 
 - 🌱 I’m currently learning **Flask,Flutter**
-- <p><a href="https://learn.microsoft.com/en-us/"> <img src="https://r.search.yahoo.com/_ylt=Awrx.ewGYIdjtLY8pjrGHAx.;_ylu=c2VjA2ZwLWF0dHJpYgRzbGsDcnVybA--/RV=2/RE=1669845126/RO=11/RU=http%3a%2f%2fwww.wagnersalvi.com.br%2fti%2fmicrosoft-learn%2f/RK=2/RS=FbSHB2e8xp6Hyfl6mf4Zpr1QNRg-"></a></p>
+- <p><a href="https://learn.microsoft.com/en-us/"> <img src="https://tse2.mm.bing.net/th?id=OIP.IX81AvGEzpAR-ztLmjB7KQHaFS&pid=Api&P=0"></a></p>
 
 - 📫 How to reach me **abhishek7522808201@gmail.com**
 
