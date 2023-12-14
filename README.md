@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yadavabhisek" alt="yadavabhisek" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript**
-- Hackerearth Campus Ambassador
+- Microsoft Learn Student Ambassador
 - <p><a href="https://learn.microsoft.com/en-us/"> <img src="https://tse2.mm.bing.net/th?id=OIP.IX81AvGEzpAR-ztLmjB7KQHaFS&pid=Api&P=0" height=20px ></a></p>
 
 - 📫 How to reach me **abhishek7522808201@gmail.com**
